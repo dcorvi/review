@@ -1,0 +1,47 @@
+h1 {
+  color: red;
+  font-size: 32px;
+  margin: 50px 25px; /* top, right, bottom, left */
+  background-color: gray;
+  padding: 25px 50px;
+}
+
+#personal {
+  /* background-color: steelblue; */
+}
+
+.bg-red {
+  background-color: red;
+  height: 100px;
+  width: 100vw;
+}
+
+#products {
+  width: 100;
+  display: block;
+}
+
+h3 {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  font-family: cursive;
+  margin: 25px;
+}
+
+button {
+  display: block;
+  margin: 25px auto;
+}
+
+img {
+  border: 5px solid black; /* width, style, color */
+}
+
+span {
+  display: inline-block;
+  width: 50%;
+}
+
+ol li {
+  color: white;
+}
